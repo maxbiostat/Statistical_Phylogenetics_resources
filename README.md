@@ -17,7 +17,7 @@ Sometimes students ask me how to learn statistical phylogenetics, and are usuall
 - [``S2016``](https://www.math.canterbury.ac.nz/~m.steel/Non_UC/files/research/book.pdf) Steel, M. (2016). **Phylogeny: discrete and random processes in evolution**. Society for Industrial and Applied Mathematics.
     * This monograph updates `SS2003`` with a decade-and-a-half's worth of mathematical results. Particularly useful for studying phylogenetic networks. 
 
-### Specific topics
+### Topics
 
 - **What are trees and how many are there?**
 
