@@ -33,6 +33,10 @@ Of course there are many possible priors  `pi(T)` for the tree, but a very popul
 [This](https://www.youtube.com/watch?v=0j0jW0stbB8) lecture by [Magnus Nordborg](https://www.oeaw.ac.at/gmi/research/research-groups/magnus-nordborg) is quite helpful, as is his 2003 [chapter](https://www.fc.up.pt/mestr_biodiv/aulas/coalescent.pdf). 
 Chapter 27 of `F2004` discusses a range of strategies for calculating the coalescent density (as well as maximum likelihood inference, which is not relevant here). 
 The coalescent is part of a family of "exchangeable" priors on trees, called proportional to distinguishable arrangements (PDA), which have nice probabilistic properties. See [Aldous (1996)](https://link.springer.com/chapter/10.1007/978-1-4612-0719-1_1) and [Zhu, Than & Wu (2015)](https://doi.org/10.1007/s00285-014-0817-4) for more details. 
-For a very statistical perspective on the coalescent as a *prior*, see Chapter 2 of Carvalho (2019)](https://era.ed.ac.uk/handle/1842/35510). 
+For a very statistical perspective on the coalescent as a *prior measure* (including its regularisation properties or lack thereof), see Chapter 2 of Carvalho (2019)](https://era.ed.ac.uk/handle/1842/35510). 
+
+### Acknowledgements
+
+I thank [Mike Steel](https://www.math.canterbury.ac.nz/~m.steel/) for sharing good resources for the coalescent. Thanks are also due to my students for prompting me to think harder about how to organise learning materials for Statistical Phylogenetics.
 
 [^1]: Or RNA or aminoacid or any discrete trait, really.
