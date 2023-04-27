@@ -17,9 +17,9 @@ Sometimes students ask me how to learn statistical phylogenetics, and are usuall
 
 ### Specific topics
 
-- **What are trees?**
+- **What are trees and how many are there?**
 
-If you're looking for a rigorous construction of trees, chapters 2 and 3 of ``SS2003`` present a construction from first principles. Section 1.3.1 of [Carvalho (2019)](https://era.ed.ac.uk/handle/1842/35510) and Chapter 2 of ``DB2015`` address time-calibrated phylogenies specifically.
+If you're looking for a rigorous construction of trees, chapters 2 and 3 of ``SS2003`` present a construction from first principles. Section 1.3.1 of [Carvalho (2019)](https://era.ed.ac.uk/handle/1842/35510) and Chapter 2 of ``DB2015`` address time-calibrated phylogenies specifically. Chapter 3 in `F2004` has a nice review on many counting results for various types of trees (rooted, unrooted, labelled and completely ordered histories). 
 
 - **How to compute the phylogenetic likelihood?**
 
