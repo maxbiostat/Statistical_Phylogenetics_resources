@@ -14,12 +14,14 @@ Sometimes students ask me how to learn statistical phylogenetics, and are usuall
     * A more modern and more statistical approach to phylogenetics. A great, mostly up-to-date reference. Stronger focus on Bayesian methods.
 - [``DB2015``](https://doi.org/10.1017/CBO9781139095112) Drummond, A. J., & Bouckaert, R. R. (2015). **Bayesian evolutionary analysis with BEAST**. Cambridge University Press.
     * This book focuses on time-calibrated phylogenies and Bayesian inference of such objects _via_ Markov chain Monte Carlo.
+- [``S2016``](https://www.math.canterbury.ac.nz/~m.steel/Non_UC/files/research/book.pdf) Steel, M. (2016). **Phylogeny: discrete and random processes in evolution**. Society for Industrial and Applied Mathematics.
+    * This monograph updates `SS2003`` with a decade-and-a-half's worth of mathematical results. Particularly useful for studying phylogenetic networks. 
 
 ### Specific topics
 
 - **What are trees and how many are there?**
 
-If you're looking for a rigorous construction of trees, chapters 2 and 3 of ``SS2003`` present a construction from first principles. Section 1.3.1 of [Carvalho (2019)](https://era.ed.ac.uk/handle/1842/35510) and Chapter 2 of ``DB2015`` address time-calibrated phylogenies specifically. Chapter 3 in `F2004` has a nice review on many counting results for various types of trees (rooted, unrooted, labelled and completely ordered histories). 
+If you're looking for a rigorous construction of trees, chapters 2 and 3 of ``SS2003`` present a construction from first principles. Section 1.3.1 of [Carvalho (2019)](https://era.ed.ac.uk/handle/1842/35510) and Chapter 2 of ``DB2015`` address time-calibrated phylogenies specifically. Chapter 3 in `F2004` has a nice review on many counting results for various types of trees (rooted, unrooted, labelled and completely ordered histories). More combinatorial results can be found in Chapter 2 of `S2016`. 
 
 - **How to compute the phylogenetic likelihood?**
 
@@ -27,6 +29,10 @@ Given a tree `T` and an alignment of DNA[^1] sequences `D`, how do I compute the
 
 - **What about the prior?** 
 
-Of course there are many possible priors  `pi(T)` for the tree, but a very popular choice is the coalescent process.
+Of course there are many possible priors  `pi(T)` for the tree, but a very popular choice is the coalescent process. There are various books and survey articles on the Kingman Coalescent (and extensions) such as Wakeley’s 2006 book (“An introduction to Coalescent Theory”) or the 2005 book by Hein et al. ("Gene Genealogies, Variation and Evolution – A Primer in Coalescent Theory”).
+[This](https://www.youtube.com/watch?v=0j0jW0stbB8) lecture by [Magnus Nordborg](https://www.oeaw.ac.at/gmi/research/research-groups/magnus-nordborg) is quite helpful, as is his 2003 [chapter](https://www.fc.up.pt/mestr_biodiv/aulas/coalescent.pdf). 
+Chapter 27 of `F2004` discusses a range of strategies for calculating the coalescent density (as well as maximum likelihood inference, which is not relevant here). 
+The coalescent is part of a family of "exchangeable" priors on trees, called proportional to distinguishable arrangements (PDA), which have nice probabilistic properties. See [Aldous (1996)](https://link.springer.com/chapter/10.1007/978-1-4612-0719-1_1) and [Zhu, Than & Wu (2015)](https://doi.org/10.1007/s00285-014-0817-4) for more details. 
+For a very statistical perspective on the coalescent as a *prior*, see Chapter 2 of Carvalho (2019)](https://era.ed.ac.uk/handle/1842/35510). 
 
 [^1]: Or RNA or aminoacid or any discrete trait, really.
