@@ -15,7 +15,7 @@ Sometimes students ask me how to learn statistical phylogenetics, and are usuall
 - [``DB2015``](https://doi.org/10.1017/CBO9781139095112) Drummond, A. J., & Bouckaert, R. R. (2015). **Bayesian evolutionary analysis with BEAST**. Cambridge University Press.
     * This book focuses on time-calibrated phylogenies and Bayesian inference of such objects _via_ Markov chain Monte Carlo.
 - [``S2016``](https://www.math.canterbury.ac.nz/~m.steel/Non_UC/files/research/book.pdf) Steel, M. (2016). **Phylogeny: discrete and random processes in evolution**. Society for Industrial and Applied Mathematics.
-    * This monograph updates `SS2003`` with a decade-and-a-half's worth of mathematical results. Particularly useful for studying phylogenetic networks. 
+    * This monograph updates `SS2003` with a decade-and-a-half's worth of mathematical results. Particularly useful for studying phylogenetic networks. 
 
 ### Topics
 
