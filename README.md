@@ -9,9 +9,9 @@ Sometimes students ask me how to learn statistical phylogenetics, and are usuall
 - [``F2004``](https://global.oup.com/ushe/product/inferring-phylogenies-9780878931774?cc=br&lang=en&#:~:text=Inferring%20Phylogenies%20explains%20clearly%20the,and%20how%20they%20are%20used.) Felsenstein, J., & Felenstein, J. (2004). **Inferring phylogenies** (Vol. 2, p. 664). Sunderland, MA: Sinauer associates.
     * Written by one of the greatest phylogeneticists of all time, this book offers a population geneticist's to statistical inference of phylogenies.
 - [``Y2006``](http://abacus.gene.ucl.ac.uk/CME/) Yang, Z. (2006). **Computational molecular evolution**. OUP Oxford.
-    * The first of [Ziheng Yang](http://abacus.gene.ucl.ac.uk/ziheng/)'s books on Statistical Phylogenetics, still a solid 
+    * The first of [Ziheng Yang](http://abacus.gene.ucl.ac.uk/ziheng/)'s books on Statistical Phylogenetics, still a solid choice. 
 - [``Y2014``](http://abacus.gene.ucl.ac.uk/MESA/) Yang, Z. (2014). **Molecular evolution: a statistical approach**. Oxford University Press.
-    * A more modern and more statistical approach to phylogenetics. A great, mostly up-to-date reference. Stronger focus on Bayesian methods.
+    * An improvement on  ``Y2006``, with a more modern and more statistical approach to phylogenetics. A great, mostly up-to-date reference. Stronger focus on Bayesian methods.
 - [``DB2015``](https://doi.org/10.1017/CBO9781139095112) Drummond, A. J., & Bouckaert, R. R. (2015). **Bayesian evolutionary analysis with BEAST**. Cambridge University Press.
     * This book focuses on time-calibrated phylogenies and Bayesian inference of such objects _via_ Markov chain Monte Carlo.
 - [``S2016``](https://www.math.canterbury.ac.nz/~m.steel/Non_UC/files/research/book.pdf) Steel, M. (2016). **Phylogeny: discrete and random processes in evolution**. Society for Industrial and Applied Mathematics.
